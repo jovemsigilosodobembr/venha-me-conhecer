@@ -1,4 +1,6 @@
- ## ❤️ MEU REPOSITORIO
+
+<h3><p align="center"> ❤️ MEU REPOSITORIO</p></h3>
+
  ### agradecimentos especiais a essas pessoas incríveis que estão realmente trabalhando duro para o projeto e ajudando os participantes
 <table>
     <tr>
@@ -19,3 +21,9 @@
     <a href="https://github.com/Gilmarsantosfilho">
             <img src="https://avatars.githubusercontent.com/u/59255732?v=4" width="150px;" alt="" style="border-radius:50%"/>                 <br />
             <b>Gilmar Filho </b>
+            
+               <td align="center">
+    <a href="https://github.com/jovemsigilosodobembr">
+            <img src="https://avatars.githubusercontent.com/u/114019171?v=4" width="150px;" alt="" style="border-radius:50%"/>                 <br />
+            <b>Gilmar Filho </b>
+
