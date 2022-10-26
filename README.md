@@ -1,7 +1,8 @@
 
 <h3><p align="center"> ❤️ MEU REPOSITORIOS</p></h3>
 
- ### agradecimentos especiais a essas pessoas incríveis que estão realmente trabalhando duro para o projeto e ajudando os participantes
+<h3><p align="center">agradecimentos especiais a essas pessoas incríveis que estão realmente trabalhando duro para o projeto e ajudando os participantes</p></h3>
+
 <table>
     <tr>
         <td align="center">
@@ -22,11 +23,6 @@
             <img src="https://avatars.githubusercontent.com/u/59255732?v=4" width="150px;" alt="" style="border-radius:50%"/>                 <br />
             <b>Gilmar Filho </b>
 
-      <td align="center">
-    <a href="https://github.com/jovemsigilosodobembr">
-            <img src="https://avatars.githubusercontent.com/u/59255732?v=4" width="150px;" alt="" style="border-radius:50%"/>                 <br />
-            <b>Gilmar Filho </b>
-            
-      
+     
      
 
