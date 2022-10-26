@@ -1,7 +1,7 @@
 
 <h3><p align="center"> ❤️ MEU REPOSITORIOS</p></h3>
 
-<h3><p align="center">agradecimentos especiais a essas pessoas incríveis que estão realmente trabalhando duro para o projeto e ajudando os participantes</p></h3>
+<h3><p align="center">Nesses Perfis do github, contem projetos tops</p></h3>
 
 <table>
     <tr>
